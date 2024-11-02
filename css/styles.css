@@ -1,0 +1,36 @@
+body{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: aquamarine;
+}
+
+nav{
+    background-color: bisque;
+}
+
+main{
+    background-color: lightcoral;
+    font-size: smaller;
+}
+
+footer{
+    background-color: lightsalmon;
+}
+
+li{
+    display: inline;
+    width: 20%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
+
+p{
+    height: 10%;
+}
